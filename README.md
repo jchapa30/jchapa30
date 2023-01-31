@@ -26,7 +26,7 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jchapa30&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
 
 
