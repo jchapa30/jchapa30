@@ -9,7 +9,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Joey%20Chapa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joey-chapa-ab2134a1/)](https://www.linkedin.com/in/joey-chapa-ab2134a1/)
 [![Medium Badge](https://img.shields.io/badge/Joey%20Chapa-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@joeychapa)](https://medium.com/@joeychapa)
-[![Yahoo Badge](https://img.shields.io/badge/-Joeychapa@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Joeychapa@yahoo.com)](mailto:Joeychapa@yahoo.com)
+[![Yahoo Badge](https://img.shields.io/badge/-Joeychapa@yahoo.com-c14438?style=flat-square&logo=yahoo&logoColor=white&link=mailto:Joeychapa@yahoo.com)](mailto:Joeychapa@yahoo.com)
 
 ## ⚡ Technologies
 
